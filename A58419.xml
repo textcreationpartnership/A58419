@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of a bloody and barbarous murder, committed on the body of Mr. Wright a Protestant minister, on Thursday the 24 of this instant February with the manner of the discovery, and of the coroners inquest thereon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58419</idno>
+            <idno type="STC">Wing R783A</idno>
+            <idno type="STC">ESTC R1023</idno>
+            <idno type="EEBO-CITATION">13419689</idno>
+            <idno type="OCLC">ocm 13419689</idno>
+            <idno type="VID">99499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 474:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of a bloody and barbarous murder, committed on the body of Mr. Wright a Protestant minister, on Thursday the 24 of this instant February with the manner of the discovery, and of the coroners inquest thereon.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Downing,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wright, --  Mr., d. 1693.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99499:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>A RELATION Of a Bloody and Barbarous Murder, Committed on the Body of Mr. <hi>Wright, a Proteſtant Miniſter,</hi> On <hi>Thurſday</hi> the 24. of this Inſtant <hi>February:</hi> With the manner of the Diſcovery, and of the Coro<g ref="char:EOLhyphen"/>ners inqueſt thereon.</head>
+            <p>THE diſcovery of Murther is that general Providence, that the Grave cannot hide, nor the Deep it ſelf conceal it; ſome attending Vengeance ſtill haunts the Bloody Hand, and ſo traces the ſteps of the Murtherer, that ſooner or later, the Guilt is detected, the Criminal taken in the Snare, and Ju<g ref="char:EOLhyphen"/>ſtice and Judgment both glorified in the due and juſt Reward of ſo crying an Impiety. A more Barbarous Inſtance of this kind has not been known then in the Butchery of a poor Gentleman found laſt <hi>Thurſday</hi> in the <hi>Thames,</hi> near <hi>Black-Fryars-Stairs.</hi> The manner and circumſtance whereof, are as follows. He was diſcovered lying Dead under a Timber-Wharfe near <hi>Black-Fryars-Stairs</hi> in his Canonical Habit. After which, he was taken up and laid in the <hi>Timber-Yard,</hi> expoſed to the View of all Perſons deſirous of ſeeing ſo miſerable a Spectacle. Being viſited by ſeveral of his own Profeſſion, his Perſon was ſoon diſcovered to be one Mr. <hi>Wright,</hi> an Uſher to a School at <hi>Camberwell,</hi> at preſent out of Benefice, about 40 Years of Age, a Luſty Freſh-Coloured Man. The Water had no partin his Death, for he was no ways ſwell'd, which was a plain Indication that he received his Death from ſome other violent Cauſe, which was too plainly evident by his Skull being crack'd, his Breaſt Infinitely bruiſed, and his Left Arm very much ſwell'd by a Blow, which may naturally be ſuppoſed to have been received in warding and defending of his Head from the Aſſault of his Murtherer. His Neck was likewiſe broke, as is imagined for his laſt and free Diſpatch. In his Pocket was found only one half-penny in Money, with a Table Book, and a Letter concerning ſome Church Preferment that he was ſpeedily like to obtain, in all which, his Per<g ref="char:EOLhyphen"/>ſon and Name were more fully diſcovered. The Coroners inqueſt thereon has been very Diligent and Induſtrious in a due Examination of the Cauſe of his Death, for which reaſon his Body has been kept three days unburied, as having not yet fully inſiſted into the matter, however, they have already ſo far traced the Inquiry, that they have diſocovered where, and in what Company he dined that <hi>Thurſday</hi> he was firſt found, and that he was then ſeen to have five Shilling in his Pocket. He was a Perſon of a very honeſt and civil Deportment and Converſation, which makes his death ſo much the more the Subject of common Wonder. The ſmall matter of Money about him being thought too poor a Provocation for ſo horrid a Murther. But as the Murtherers are not yet detected, though the Jury have too plain demonſtrati<g ref="char:EOLhyphen"/>ons of Murther, and have given their Verdict accordingly; yet ſome ſhew'd Suſpitions begin to appear, and God of his Juſtice, we hope, will ſoon more perfectly bring Truth to Light, and Guilt to its due Puniſhment.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Downing,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
